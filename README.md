@@ -1,6 +1,11 @@
 ### Hi! 👋 My name is Egor. Welcome! :v:
+I'm programmer from Saint Petersburg!
 I learn Java at [Job4j](https://job4j.ru/)
+-
+![Endpoint Badge](https://img.shields.io/endpoint?url=%7B%22schemaVersion%22%3A%201%2C%20%22label%22%3A%20%22Java%22%2C%20%22message%22%3A%20%22%3E%3D%208%22%2C%20%22color%22%3A%20%22orange%22%7D)
+![Github stats](https://github-readme-stats.vercel.app/api?username=TujhZreitd&hide=stars,prs,issues,contribs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TujhZreitd&layout=compact)](https://github.com/TujhZreitd/github-readme-stats)
 <!--
 **TujhZreitd/TujhZreitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
